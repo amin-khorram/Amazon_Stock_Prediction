@@ -56,6 +56,7 @@ amazon_data.head(5)
 
 
 # In[18]:
+import sklearn
 
 
 
